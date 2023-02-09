@@ -1,0 +1,23 @@
+id: 1c773cb2add147bb875e18c2a5af8f12
+annotation_type: index
+revision: '00001'
+annotations:
+  08066971dd2943648d50219b17f582f2:
+    base: 815F.txt
+    Chapters:
+    - title: Piṇḍoddāna
+      span:
+        start: 0
+        end: 513
+    - title: Uddāna 1
+      span:
+        start: 514
+        end: 1237
+    - title: Uddāna 2
+      span:
+        start: 1238
+        end: 2075
+    - title: Uddāna 3
+      span:
+        start: 2076
+        end: 2194

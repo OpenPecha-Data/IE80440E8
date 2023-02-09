@@ -1,0 +1,16 @@
+id: IE80440E8
+default_language: en
+source: https://www2.hf.uio.no/polyglotta/index.php?page=library&bid=2
+initial_creation_type: input
+imported: 2023-02-09 15:03:57.253829
+last_modified: 2023-02-09 15:03:57.253976
+source_metadata:
+  title: 'MSV 1,04: Varṣāvastu'
+  language: en
+bases:
+  815F:
+    base_file: 815F.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''
